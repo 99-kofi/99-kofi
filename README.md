@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @99-kofi
 - 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...image processing with python
+- 🌱 I’m a Machine learning Researcher 
 - 💞️ I’m looking to collaborate on ...github projects
 - 📫 How to reach me ...ka0670385@gmail.com
 
